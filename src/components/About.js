@@ -1,3 +1,4 @@
+import image from "../assets/monimage.png"
 export default function About() {
   return (
     <section className="resume-section" id="about">
@@ -9,7 +10,7 @@ export default function About() {
           </h1>
           <img
             className="img-fluid img-profile  mx-auto mb-2"
-            src="/monimage.png"
+            src={image}
             alt=""
           />
         </div>
