@@ -42,12 +42,12 @@ export default function About() {
           </a>
 
         </div>
-        <div>
+        <div style={{marginTop:"50px"}}>
           <p>
-            Email: farhat.benabdessamad@fsegt.utm.tn
+            Email : farhat.benabdessamad@fsegt.utm.tn
           </p>
           <p>
-            phone number: +216 52 421 629
+            phone number : +216 52 421 629
           </p>
         </div>
       </div>
