@@ -5,6 +5,8 @@ export default function Projects() {
           <div className="resume-section-content projects">
             <h2 className="mb-1">Projects</h2>
             <div className="subheading mb-2">Frontend projects</div>
+            <h6 style={{ color: "white", textTransform: "lowercase", marginTop:"200px" }}> In progress ...</h6>
+            <br/>
             <div className="d-flex row">
               <div
                 className="card col-md-3 col-12 mx-2 mb-1"
@@ -16,16 +18,16 @@ export default function Projects() {
                   alt="Card image cap"
                 />
               <div className="card-body">
-                  <h5 className="card-title">Random Advice using Javascript</h5>
+                  <h5 className="card-title">....</h5>
                   <a
-                    href="https://github.com/saurabhnative/randomadvicegenerator"
+                    href=""
                     target="_blank"
                     className="btn btn-primary"
                   >
                     Github
                   </a>
                   <a
-                    href="https://generateadvice.netlify.app/"
+                    href=""
                     target="_blank"
                     className="btn btn-secondary"
                   >
@@ -43,16 +45,16 @@ export default function Projects() {
                   alt="Card image cap"
                 />
                <div className="card-body">
-                  <h5 className="card-title">Stories Feed App</h5>
+                  <h5 className="card-title">...</h5>
                   <a
-                    href="https://github.com/saurabhnative/storiesfeedapp"
+                    href=""
                     target="_blank"
                     className="btn btn-primary"
                   >
                     Github
                   </a>
                   <a
-                    href="https://stories-feed-app.netlify.app/"
+                    href=""
                     target="_blank"
                     className="btn btn-secondary"
                   >
@@ -70,16 +72,16 @@ export default function Projects() {
                   alt="Card image cap"
                 />
                <div className="card-body">
-                  <h5 className="card-title">ID Card Generator</h5>
+                  <h5 className="card-title">...</h5>
                   <a
-                    href="https://github.com/saurabhnative/react30_1_id_card_generator"
+                    href=""
                     target="_blank"
                     className="btn btn-primary"
                   >
                     Github
                   </a>
                   <a
-                    href="https://id-card-generator-2021.netlify.app/"
+                    href=""
                     target="_blank"
                     className="btn btn-secondary"
                   >

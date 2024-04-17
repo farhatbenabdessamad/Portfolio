@@ -31,23 +31,23 @@ export default function About() {
           <a className="social-icon" href="https://github.com/farhatbenabdessamad">
             <i style={{ color: "black" }} className="fab fa-github" />
           </a>
-          <a className="social-icon" href="https://twitter.com/saurabhnative">
+          <a className="social-icon" href="https://twitter.com/FarhatBENABDES1">
             <i style={{ color: "black" }} className="fab fa-twitter" />
           </a>
           <a
             className="social-icon"
-            href="https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g/featured"
+            href="https://www.youtube.com"
           >
             <i style={{ color: "black" }} className="fab fa-youtube" />
           </a>
 
         </div>
-        <div style={{marginTop:"50px"}}>
+        <div className="social-icons" style={{marginTop:"50px"}}>
           <p>
-            Email : farhat.benabdessamad@fsegt.utm.tn
+           <span className="social-icon"> <i style={{ color: "black" }} className="fa-solid fa-envelope"></i></span> Email : farhat.benabdessamad@fsegt.utm.tn
           </p>
           <p>
-            phone number : +216 52 421 629
+          <span className="social-icon"> <i style={{ color: "black" }} className="fa-solid fa-phone"></i></span> phone number : +216 52 421 629
           </p>
         </div>
       </div>

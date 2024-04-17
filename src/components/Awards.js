@@ -8,19 +8,13 @@ export default function Awards() {
               <span className="fa-li">
                 <i className="fas fa-trophy text-warning" />
               </span>
-              Attended workshop on Deep Learning organised by Nvidia at IIT Bombay
+              Participation in internships in economics and sociology at the University of Alicante - Spain
             </li>
             <li>
             <span className="fa-li">
                 <i className="fas fa-trophy text-warning" />
               </span>
-              Data Science Masters Program - GreyAtom Certification
-            </li>
-            <li>
-              <span className="fa-li">
-                <i className="fas fa-trophy text-warning" />
-              </span>
-              Participation in national level React.js Conference at Goa
+              Took part in a national development conference - Hammamet.
             </li>
           </ul>
         </div>
