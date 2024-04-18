@@ -37,9 +37,6 @@ export default function Skills() {
             <li className="list-inline-item">
               <i className="fab fa-express-js" />
             </li>
-            <li className="list-inline-item">
-              <i className="fab fa-mongo-db" />
-            </li>
           </ul>
           <div className="subheading mb-3">Workflow</div>
           <ul className="fa-ul mb-0">
