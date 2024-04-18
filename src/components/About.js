@@ -1,3 +1,4 @@
+
 import image from "../assets/monimage.png"
 export default function About() {
   return (
