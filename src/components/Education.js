@@ -14,7 +14,7 @@ export default function Education() {
                 <p>Percentage: Maintained an average above 80% throughout the entire course.</p>
               </div>
               <div className="flex-shrink-0">
-                <span className="text-primary">December 2023 - Mai 2024</span>
+                <span className="text-primary">December 2023 - April 2024</span>
               </div>
             </div>
             <div className="d-flex flex-column flex-md-row justify-content-between">
@@ -29,7 +29,7 @@ export default function Education() {
                 <p>Percentage: Maintained an average above 70%, with a grade of 'very honorable'.</p>
               </div>
               <div className="flex-shrink-0">
-                <span className="text-primary">September 2017 - June 2024</span>
+                <span className="text-primary">September 2017 - June 2023</span>
               </div>
             </div>
           </div>

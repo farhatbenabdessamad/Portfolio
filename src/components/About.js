@@ -17,7 +17,7 @@ export default function About() {
         </div>
 
 
-        <div className="subheading mb-5">Economist && Full Stack Web Developer - Tunisia</div>
+        <div className="subheading mb-5">Full Stack Web Developer (JavaScript, MERN) & Ph.D. in Economics - Tunisia</div>
 
         <p className="lead mb-5">
           With a specialization in both web development and economic development, I bring a wealth of experience to the table. My expertise lies in crafting dynamic websites, building hybrid mobile applications, and architecting robust backend solutions. Having worked in both corporate giants and burgeoning startups, I possess a well-rounded understanding of the product development landscape. This unique perspective enables me to make meaningful contributions to businesses of all sizes, at every stage of their journey.
