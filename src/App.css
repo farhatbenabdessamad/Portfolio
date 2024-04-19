@@ -10126,14 +10126,14 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
-@media(max-width:992px) {
+@media(max-width:1300px) {
 #Myname{
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 #Myname h1{
-  font-size: 3rem;
+  font-size: 6rem;
   margin-bottom: 0rem;
 }
 #Myname img{
