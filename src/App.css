@@ -10126,10 +10126,26 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
-.img-fluid {
+@media(max-width:992px) {
+#Myname{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#Myname h1{
+  font-size: 3rem;
+  margin-bottom: 0rem;
+}
+#Myname img{
+  margin-top: 0rem;
+  padding: 0px;
+ 
+}
+}
+/* .img-fluid {
   height: 600px;
   
-}
+} */
 
 
 

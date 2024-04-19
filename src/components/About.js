@@ -3,8 +3,8 @@ import image from "../assets/monimage.png"
 export default function About() {
   return (
     <section className="resume-section" id="about">
-      <div className="resume-section-content" style={{ marginTop: "-222px" }}>
-        <div style={{ display: "flex", justifyContent: "center", alignItems: "center" }}>
+      <div className="resume-section-content" style={{ marginTop: "0px" }}>
+        <div id="Myname" style={{ display: "flex", justifyContent: "center", alignItems: "center" }}>
           <h1 className="mb-0" style={{ color: "white", fontFamily: "Courier New, monospace" }}>
             Farhat
             <span className="text-primary">  Ben Abdessamad</span>
