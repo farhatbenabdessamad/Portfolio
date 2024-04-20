@@ -10133,7 +10133,7 @@ section.resume-section .resume-section-content {
   justify-content: center;
 }
 #Myname h1{
-  font-size: 4rem;
+  font-size: auto;
   margin-bottom: 0rem;
 }
 #Myname img{
@@ -10148,11 +10148,76 @@ section.resume-section .resume-section-content {
 } */
 
 
+@media(max-width:633px) {
+  #Myname{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  #Myname h1{
+    font-size: 3rem;
+    margin-bottom: 0rem;
+  }
+  }
 
+  @media(max-width:311px) {
+    #Myname{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    #Myname h1{
+      font-size: 2rem;
+      margin-bottom: 0rem;
+    }
+    }
 
+    @media(max-width:200px) {
+      #Myname{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      #Myname h1{
+        font-size: 1.5rem;
+        margin-bottom: 0rem;
+      }
+      }
 
+      @media(max-width:150px) {
+        #Myname{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+        #Myname h1{
+          font-size: 1rem;
+          margin-bottom: 0rem;
+        }
+        }
 
+        @media(max-width:100px) {
+          #Myname{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+          }
+          #Myname h1{
+            font-size: 1rem;
+            margin-bottom: 0rem;
+          }
+          }
 
-
+          @media(max-width:99px) {
+            #Myname{
+              display: flex;
+              flex-direction: column;
+              justify-content: center;
+            }
+            #Myname h1{
+              font-size: 1rem;
+              margin-left: 2rem;
+            }
+            }
 
 
