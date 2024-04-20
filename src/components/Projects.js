@@ -39,12 +39,13 @@ export default function Projects() {
       <section className="resume-section" id="interests">
         <div className="resume-section-content">
           <h2 className="mb-5">Interests</h2>
-          <p>In my portfolio, I aim to share my passions and interests that shape my daily life and fuel my curiosity for the world around me.</p>
-          <p>Reading holds a central place in my life. I love exploring different literary genres, whether it's captivating fiction, enriching non-fiction, boundary-pushing science fiction, or transporting historical novels.</p>
-          <p>Traveling is a true source of inspiration and wonder for me. I enjoy discovering new cultures, exploring exotic destinations, and immersing myself in the diversity of the world. Each journey is an opportunity to learn new foreign languages, meet fascinating people, and broaden my horizons.</p>
-          <p>As a technology enthusiast, I'm always on the lookout for the latest trends and digital innovations. I enjoy exploring new gadgets, innovative apps, and online platforms that shape our way of life and work.</p>
-          <p>Sport is also an integral part of my life. Whether it's running, weightlifting, or other sports activities, I strive to maintain an active and balanced lifestyle. Sport helps me stay physically and mentally fit, while providing me with a sense of well-being and personal fulfillment.</p>
-          <p>These interests reflect my insatiable curiosity, my desire to discover new things, and my commitment to living a fulfilling and enriching life. I look forward to sharing these passions with you through my portfolio.</p>
+          < p style={{ textAlign: "justify", width: "100%" }}>In my portfolio, I aim to share my passions and interests that shape my daily life and fuel my curiosity for the world around me.
+          Reading holds a central place in my life. I love exploring different literary genres, whether it's captivating fiction, enriching non-fiction, boundary-pushing science fiction, or transporting historical novels.
+          Traveling is a true source of inspiration and wonder for me. I enjoy discovering new cultures, exploring exotic destinations, and immersing myself in the diversity of the world. Each journey is an opportunity to learn new foreign languages, meet fascinating people, and broaden my horizons.
+          As a technology enthusiast, I'm always on the lookout for the latest trends and digital innovations. I enjoy exploring new gadgets, innovative apps, and online platforms that shape our way of life and work.
+          Sport is also an integral part of my life. Whether it's running, weightlifting, or other sports activities, I strive to maintain an active and balanced lifestyle. Sport helps me stay physically and mentally fit, while providing me with a sense of well-being and personal fulfillment
+          These interests reflect my insatiable curiosity, my desire to discover new things, and my commitment to living a fulfilling and enriching life. I look forward to sharing these passions with you through my portfolio.
+          </p>
         </div>
       </section>
       <hr className="m-0" />

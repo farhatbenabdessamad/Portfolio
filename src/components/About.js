@@ -29,7 +29,7 @@ export default function About() {
         </div>
         <div className="social-icons" style={{ marginTop: "50px" }}>
           <p>
-            <span className="social-icon"> <i style={{ color: "black" }} className="fa-solid fa-envelope"></i></span> Email : farhat.benabdessamad@fsegt.utm.tn
+            <span className="social-icon"> <i style={{ color: "black" }} className="fa-solid fa-envelope"></i></span> Email : <br className="break-line" /> farhat.benabdessamad@fsegt.utm.tn
           </p>
           <p>
             <span className="social-icon"> <i style={{ color: "black" }} className="fa-solid fa-phone"></i></span> phone number : <br className="break-line" /> +216 52 421 629
