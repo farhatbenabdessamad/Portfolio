@@ -14,7 +14,7 @@ export default function Experience() {
               </p>
             </div>
             <div className="flex-shrink-0">
-              <span className="text-primary">September 2022 - December 2023</span>
+              <span className="text-primary">September 2022 - July 2023</span>
             </div>
           </div>
 
